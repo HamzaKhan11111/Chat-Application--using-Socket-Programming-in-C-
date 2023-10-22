@@ -35,5 +35,5 @@ SCENARIOS HANDLED:
 2) 2 clients can't connect with the server using same username as all the active users are kept track of (in the server).
 3) Users need to join chatroom before being able to message in them.
 4) User can't create chatroom with names that are already present.
-5) If a User tries to join a chat-room they are already part of, the will be notified: "You have already joined this group!"
+5) If a User tries to join a chat-room they are already part of, they will be notified: "You have already joined this group!"
 6) If a user tries to join a chat-room that is not present, they will be notified: "No group with this name is present!"
